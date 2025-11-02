@@ -56,3 +56,12 @@ workdocs/
 # Experimental/test code and scratch work
 scratch/
 
+# Experiment result files
+experiments/baseline/results/gpt*.log
+experiments/baseline/results/gpt*.json
+experiments/baseline/results/exp_*.log
+
+# Generated output directories
+outputs/
+detection/outputs/
+
